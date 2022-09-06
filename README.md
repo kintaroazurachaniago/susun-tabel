@@ -17,11 +17,12 @@ const data = [
 Kita bisa membuat data tersebut menjadi tabel dengan format text dengan cara berikut
 
 ```Javascript
-console.log(susunTabel(data, { /* parameter kedua ini opsional */
+const tabelTersusun = susunTabel(data, { /* parameter kedua ini opsional */
 	/* Default = kiri : [semua colom], */
 	kanan : ['price'], /* Meratakan isi tabel ke kanan */
 	tengah : ['date'] /* Meratakan isi tabel ke tengah */
-}))
+})
+console.log(tabelTersusun)
 ```
 
 Dan ini hasil nya
