@@ -1,6 +1,6 @@
 # susun-tabel
 
-#Penggunaan
+# Penggunaan
 
 Misalkan kita punya data gini :
 
