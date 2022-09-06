@@ -24,4 +24,17 @@ console.log(susunTabel(data, { /* parameter kedua ini opsional */
 }))
 ```
 
+Dan ini hasil nya
+
+```
+-----------------------------------------------------------------------------------------------------------------------
+| Lable            |       Price | Date | Description                                              | Month     | Year |
+-----------------------------------------------------------------------------------------------------------------------
+| lorem ipsum      |   1.230.985 |  10  |                             -                            | Maret     |   -  |
+| dolor sit        |     654.879 |  31  |                             -                            | April     | 2022 |
+| amet consectetur |  36.859.741 |  23  | Lorem ipsum dolor sit amet consectetur adipisicing elit. | Mei       |   -  |
+| adipiscing elit  | 458.799.876 |  11  |                             -                            | September |   -  |
+-----------------------------------------------------------------------------------------------------------------------
+```
+
 # Terimakasih udah mampir kemari :)
